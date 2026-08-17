@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd3fc1bc-b416-48c5-9834-76505a67c935",
+  "path": "mem0-vercel-ai-sdk",
+  "path_key": "mem0-vercel-ai-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mem0ai/mem0/mem0-vercel-ai-sdk",
+    "subpath": "skills\\mem0-vercel-ai-sdk",
+    "branch": null
+  }
+}

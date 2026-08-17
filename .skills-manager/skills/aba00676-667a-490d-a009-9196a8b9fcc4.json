@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aba00676-667a-490d-a009-9196a8b9fcc4",
+  "path": "ai-elements",
+  "path_key": "ai-elements",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel/ai-elements/ai-elements",
+    "subpath": "skills\\ai-elements",
+    "branch": null
+  }
+}

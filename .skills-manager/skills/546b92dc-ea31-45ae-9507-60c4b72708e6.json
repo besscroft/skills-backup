@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "546b92dc-ea31-45ae-9507-60c4b72708e6",
+  "path": "mem0",
+  "path_key": "mem0",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mem0ai/mem0/mem0",
+    "subpath": "skills\\mem0",
+    "branch": null
+  }
+}
