@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96990662-abec-424c-93c0-0481da36e1a4",
+  "path": "vercel-react-native-skills",
+  "path_key": "vercel-react-native-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/agent-skills/vercel-react-native-skills",
+    "subpath": "skills\\react-native-skills",
+    "branch": null
+  }
+}

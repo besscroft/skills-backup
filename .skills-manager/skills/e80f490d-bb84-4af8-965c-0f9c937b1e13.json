@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e80f490d-bb84-4af8-965c-0f9c937b1e13",
+  "path": "claude-automation-recommender",
+  "path_key": "claude-automation-recommender",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "anthropics/claude-plugins-official/claude-automation-recommender",
+    "subpath": "plugins\\claude-code-setup\\skills\\claude-automation-recommender",
+    "branch": null
+  }
+}

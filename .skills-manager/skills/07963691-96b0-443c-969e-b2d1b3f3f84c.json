@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "07963691-96b0-443c-969e-b2d1b3f3f84c",
+  "path": "frontend-dev",
+  "path_key": "frontend-dev",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "minimax-ai/skills/frontend-dev",
+    "subpath": "skills\\frontend-dev",
+    "branch": null
+  }
+}

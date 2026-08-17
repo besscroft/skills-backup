@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "8828d666-6a93-4295-978b-82c996aca6be",
+  "name": "旅行者",
+  "description": "旅行者迭代经验",
+  "icon": "brain",
+  "sort_order": 999
+}

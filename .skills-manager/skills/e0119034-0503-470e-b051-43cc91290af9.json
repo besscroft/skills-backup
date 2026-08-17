@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0119034-0503-470e-b051-43cc91290af9",
+  "path": "planning-with-files-zh",
+  "path_key": "planning-with-files-zh",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "othmanadi/planning-with-files/planning-with-files-zh",
+    "subpath": "skills\\planning-with-files-zh",
+    "branch": null
+  }
+}

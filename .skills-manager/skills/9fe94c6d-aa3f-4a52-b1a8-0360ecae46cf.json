@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9fe94c6d-aa3f-4a52-b1a8-0360ecae46cf",
+  "path": "ai-sdk",
+  "path_key": "ai-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel/ai/ai-sdk",
+    "subpath": "skills\\use-ai-sdk",
+    "branch": null
+  }
+}
