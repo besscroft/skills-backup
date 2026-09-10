@@ -6,6 +6,7 @@
   "tools": {
     "claude_code": true,
     "codex": true,
-    "trae_cn": true
+    "trae_cn": true,
+    "zcode": true
   }
 }

@@ -12,6 +12,7 @@
     "qwen_code": true,
     "trae": true,
     "trae_cn": true,
-    "workbuddy": true
+    "workbuddy": true,
+    "zcode": true
   }
 }
