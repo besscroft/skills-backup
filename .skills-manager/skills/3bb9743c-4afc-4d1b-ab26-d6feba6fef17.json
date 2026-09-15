@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3bb9743c-4afc-4d1b-ab26-d6feba6fef17",
+  "path": "prototype",
+  "path_key": "prototype",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "emilkowalski/skills/prototype",
+    "subpath": "skills\\prototype",
+    "branch": null
+  }
+}

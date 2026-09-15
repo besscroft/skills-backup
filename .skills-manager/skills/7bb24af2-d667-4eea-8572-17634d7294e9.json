@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bb24af2-d667-4eea-8572-17634d7294e9",
+  "path": "animation-vocabulary",
+  "path_key": "animation-vocabulary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "emilkowalski/skills/animation-vocabulary",
+    "subpath": "skills\\animation-vocabulary",
+    "branch": null
+  }
+}

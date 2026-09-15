@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30d038ab-4aaf-4a52-8f31-412122bd4d92",
+  "path": "find-animation-opportunities",
+  "path_key": "find-animation-opportunities",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "emilkowalski/skills/find-animation-opportunities",
+    "subpath": "skills\\find-animation-opportunities",
+    "branch": null
+  }
+}
