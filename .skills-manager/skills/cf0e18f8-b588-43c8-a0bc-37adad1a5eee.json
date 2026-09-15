@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf0e18f8-b588-43c8-a0bc-37adad1a5eee",
+  "path": "emil-design-eng",
+  "path_key": "emil-design-eng",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "emilkowalski/skills/emil-design-eng",
+    "subpath": "skills\\emil-design-eng",
+    "branch": null
+  }
+}

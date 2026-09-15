@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eba64dec-a1cd-4dfe-84df-86dc5f15f7ac",
+  "path": "animate",
+  "path_key": "animate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "emilkowalski/skills/animate",
+    "subpath": "skills\\animate",
+    "branch": null
+  }
+}
