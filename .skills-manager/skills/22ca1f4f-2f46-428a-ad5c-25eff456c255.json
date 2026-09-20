@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "22ca1f4f-2f46-428a-ad5c-25eff456c255",
+  "path": "remotion",
+  "path_key": "remotion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/json-render/remotion",
+    "subpath": "skills\\remotion",
+    "branch": null
+  }
+}

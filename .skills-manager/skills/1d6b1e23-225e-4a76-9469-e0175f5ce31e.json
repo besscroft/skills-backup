@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d6b1e23-225e-4a76-9469-e0175f5ce31e",
+  "path": "shadcn-2",
+  "path_key": "shadcn-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/json-render/shadcn",
+    "subpath": "skills\\shadcn",
+    "branch": null
+  }
+}

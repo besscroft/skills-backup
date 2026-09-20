@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95111bc9-8b4c-4eaf-a645-ec8835d8d576",
+  "path": "mcp",
+  "path_key": "mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/json-render/mcp",
+    "subpath": "skills\\mcp",
+    "branch": null
+  }
+}
