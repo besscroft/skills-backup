@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8cb71000-73ba-433f-8ef2-63cb14d5c112",
+  "path": "core",
+  "path_key": "core",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/json-render/core",
+    "subpath": "skills\\core",
+    "branch": null
+  }
+}
