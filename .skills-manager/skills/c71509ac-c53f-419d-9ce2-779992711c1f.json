@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c71509ac-c53f-419d-9ce2-779992711c1f",
+  "path": "heroui-react",
+  "path_key": "heroui-react",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "heroui-inc/heroui/heroui-react",
+    "subpath": "skills\\heroui-react",
+    "branch": null
+  }
+}
