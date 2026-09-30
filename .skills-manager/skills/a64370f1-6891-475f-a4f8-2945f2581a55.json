@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a64370f1-6891-475f-a4f8-2945f2581a55",
+  "path": "heroui-native",
+  "path_key": "heroui-native",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "heroui-inc/heroui/heroui-native",
+    "subpath": "skills\\heroui-native",
+    "branch": null
+  }
+}
