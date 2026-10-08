@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae705c47-f67f-402e-b142-f148e63f2a9c",
+  "path": "weapp-tailwindcss",
+  "path_key": "weapp-tailwindcss",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "sonofmagic/skills/weapp-tailwindcss",
+    "subpath": "skills\\weapp-tailwindcss\\weapp-tailwindcss",
+    "branch": null
+  }
+}
