@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f72c0986-ac2e-44b6-9783-c46d81939c58",
+  "path": "ui-sdk",
+  "path_key": "ui-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/ui/ui-sdk",
+    "subpath": "packages\\core\\skills\\ui-sdk",
+    "branch": null
+  }
+}
